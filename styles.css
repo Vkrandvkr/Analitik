@@ -1,0 +1,160 @@
+.div1 {
+  background-color: #98FB98;
+  margin: 10px;
+  padding: 5px;
+  height: 150px;
+  width: 100%;
+}
+.div2 {
+  /*border: 5px solid darkblue;*/
+ /* margin: 10px;*/
+  height: 650px;
+  width:95%;
+}
+.div3 {
+ /* border: 5px solid red;*/
+ background-color: #98FB98;
+  margin: 10px;
+  height: 150px;
+  width: 100%;
+}
+.div1_1 {
+  background-color: #98FB98;;
+  
+  height: 25px;
+  width: 90%;
+}
+.block{
+float: left; /*Задаем обтекание*/ 
+line-height: 5px;/*Высота строки + верт. центрирования текста*/ 
+/*	font-size: 40px;*/
+	background-color:#00FF7F; 
+	color: white; 
+	/*margin-top: 60px; */
+	width: 150px; /*Фиксируем ширину блока*/
+/*height: 45px;	*/
+	margin-right: 25px; 
+    text-align: center; /*Центрируем*/
+
+}
+a:link {
+  color: #265301;
+}
+
+.block1{
+float: right; /*Задаем обтекание*/ 
+line-height: 5px;/*Высота строки + верт. центрирования текста*/ 
+/*	font-size: 40px;*/
+	background-color:#00FF7F; 
+	color: white; 
+	/*margin-top: 60px; */
+	width: 150px; /*Фиксируем ширину блока*/
+/*height: 45px;	*/
+	margin-left: 25px; 
+    text-align: center; /*Центрируем*/
+
+}
+
+.div2_1 {
+  /*border: 5px solid darkblue;*/
+  margin: 10px;
+  height: 640px;
+  width: 350px;
+  float: left;
+  margin-left: 5px;
+  background-color:#98FB98;  
+}
+.div2_2 {
+  /*border: 5px solid darkblue;*/
+ margin: 10px ;
+  height: 640px;
+  width: 850px;
+  float: right;
+  /*margin-left: 5px;*/
+ /* background-color:  #bbaa40; */
+}
+.block2{
+/*float: right; /*Задаем обтекание*/ 
+line-height: 30px;/*Высота строки + верт. центрирования текста*/ 
+/*	font-size: 40px;*/
+	background-color:#00FF7F; 
+	color: white; 
+margin: 20px; 
+	width: 150px; /*Фиксируем ширину блока*/
+height: 45px;	
+	/*margin-left: 25px; */
+    text-align: center; /*Центрируем*/
+
+}
+.block3{
+float: left; /*Задаем обтекание*/ 
+line-height: 30px;/*Высота строки + верт. центрирования текста*/ 
+/*	font-size: 40px;*/
+	background-color:#00FF7F; 
+	color: black; 
+margin: 20px; 
+	width: 250px; /*Фиксируем ширину блока*/
+height: 125px;/*150*/
+/*margin-left: 25px;*/
+    text-align: center; /*Центрируем*/
+
+}
+
+.div4{
+/*	float: left; /*Задаем обтекание*/ 
+line-height: 30px;/*Высота строки + верт. центрирования текста*/ 
+/*	font-size: 40px;*/
+	background-color: #00FF7F; 
+	color: black; 
+margin: 20px; 
+	width: 280px; /*Фиксируем ширину блока*/
+height: 150px;	
+	/*margin-left: 25px*/ 
+    text-align: center; /*Центрируем*/
+}
+
+.div3_1{
+float: left; /*Задаем обтекание*/ 
+line-height: 30px;/*Высота строки + верт. центрирования текста*/ 
+/*	font-size: 40px;*/
+	background-color: #98FB98; 
+	color: black; 
+margin: 20px; 
+	width: 480px; /*Фиксируем ширину блока*/
+height: 100px;	
+	/*margin-left: 25px*/ 
+    text-align: center; /*Центрируем*/
+}
+
+.div2_10 {
+  /*border: 5px solid darkblue;*/
+  margin: 10px;
+  height: 640px;
+  width: 350px;
+  float: left;
+  margin-left: 5px;
+  background-color:#bbaa70;  
+}
+.div2_20 {
+  /*border: 5px solid darkblue;*/
+  margin: 10px;
+  height: 640px;
+  width: 990px;
+  float: left;
+  margin-left: 5px;
+  background-color:#bbaa70;  
+}
+.block4{
+float: left; /*Задаем обтекание*/ 
+line-height: 30px;/*Высота строки + верт. центрирования текста*/ 
+/*	font-size: 40px;*/
+	background-color: #00FF7F;; 
+	color: black; 
+margin: 20px; 
+	width: 545px; /*Фиксируем ширину блока*/
+height: 60px;/*150*/
+/*margin-left: 25px;*/
+    text-align: center; /*Центрируем*/
+
+}
+
